@@ -2,6 +2,8 @@
 
 Este é um projeto simples de sistema de gerenciamento de estacionamento desenvolvido em **C#** como um desafio fundamental de programação. Ele simula as operações básicas de um estacionamento, permitindo cadastrar veículos, remover veículos e calcular o valor a ser pago com base no tempo de permanência.
 
+[![Imagem de capa](https://github.com/robsonosbor/trilha-net-fundamentos-desafio/blob/main/diagrama_classe_estacionamento.png)](/)
+
 ---
 
 ### 🚀 Tecnologias
